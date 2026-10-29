@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Muruganandam M G — CTO at A-Zentrix, AI Developer and Python Developer" />
+<img src="./assets/header.svg?v=5df6478" width="100%" alt="Muruganandam M G — CTO at A-Zentrix, AI Developer and Python Developer" />
 
 <br />
 
@@ -10,7 +10,7 @@
 
 <br /><br />
 
-<img src="./assets/focus.svg" width="800" alt="CTO at A-Zentrix, building AI agents, LLM workflows, and ML applications" />
+<img src="./assets/focus.svg?v=5df6478" width="800" alt="CTO at A-Zentrix, building AI agents, LLM workflows, and ML applications" />
 
 </div>
 
