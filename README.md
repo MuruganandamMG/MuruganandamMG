@@ -147,20 +147,14 @@ A project exploring speech-to-text, text-to-speech, and AI interview workflows w
 <div align="center">
 
 <a href="https://github.com/MuruganandamMG">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuruganandamMG&theme=github_dark" width="48%" alt="MuruganandamMG public GitHub statistics" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuruganandamMG&theme=github_dark" width="48%" alt="Languages across MuruganandamMG public repositories" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuruganandamMG&theme=tokyonight" width="48%" alt="MuruganandamMG public GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuruganandamMG&theme=tokyonight" width="48%" alt="Languages across MuruganandamMG public repositories" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/MuruganandamMG">
-<img src="https://streak-stats.demolab.com?user=MuruganandamMG&hide_border=true&background=0D1117&stroke=233044&ring=00D9E8&fire=00D9E8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9E8&sideLabels=9BAEC8&dates=9BAEC8" width="70%" alt="MuruganandamMG contribution streak" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/MuruganandamMG">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuruganandamMG&theme=github_dark" width="98%" alt="MuruganandamMG contribution activity over time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuruganandamMG&theme=tokyonight" width="98%" alt="MuruganandamMG contribution activity over time" />
 </a>
 
 </div>
