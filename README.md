@@ -1,221 +1,193 @@
-<div align="center">
+<!-- Generated from resume.json by tools/build_resume.py. -->
 
-<img src="./assets/header.svg?v=5df6478" width="100%" alt="Muruganandam M G — CTO at A-Zentrix, AI Developer and Python Developer" />
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/resume/hero-mobile-dark.svg?v=4857b25fd6" />
+  <source media="(max-width: 600px)" srcset="./assets/resume/hero-mobile-light.svg?v=4857b25fd6" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/resume/hero-dark.svg?v=4857b25fd6" />
+  <img src="./assets/resume/hero-light.svg?v=4857b25fd6" width="960" alt="Muruganandam M G — AI Developer · Python Developer, CTO at A-Zentrix. Git-native agents, LLM workflows, and ML applications — with a focus on APIs, model evaluation, testing, and maintainable code." />
+</picture>
 
-<br />
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/resume/experience-mobile-dark.svg?v=4857b25fd6" />
+  <source media="(max-width: 600px)" srcset="./assets/resume/experience-mobile-light.svg?v=4857b25fd6" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/resume/experience-dark.svg?v=4857b25fd6" />
+  <img src="./assets/resume/experience-light.svg?v=4857b25fd6" width="960" alt="Experience: CTO at A-Zentrix; TuneEng Team Lead, 2025–2026; AI and Full-Stack Student Project Developer, 2023–Present." />
+</picture>
 
-<a href="https://www.linkedin.com/in/muruga007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect with Muruganandam on LinkedIn" /></a>
-<a href="mailto:muruga004kvp@gmail.com"><img src="https://img.shields.io/badge/Email-151D2E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muruganandam" /></a>
-<a href="https://github.com/MuruganandamMG?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Work-00D9E8?style=for-the-badge&logo=github&logoColor=07111F" alt="Explore my repositories" /></a>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/resume/selected-work-mobile-dark.svg?v=4857b25fd6" />
+  <source media="(max-width: 600px)" srcset="./assets/resume/selected-work-mobile-light.svg?v=4857b25fd6" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/resume/selected-work-dark.svg?v=4857b25fd6" />
+  <img src="./assets/resume/selected-work-light.svg?v=4857b25fd6" width="960" alt="Selected work. Open each project panel to explore its repository." />
+</picture>
 
-<br /><br />
+<a href="https://github.com/MuruganandamMG/agent-forge">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/resume/agent-forge-mobile-dark.svg?v=4857b25fd6" />
+  <source media="(max-width: 600px)" srcset="./assets/resume/agent-forge-mobile-light.svg?v=4857b25fd6" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/resume/agent-forge-dark.svg?v=4857b25fd6" />
+  <img src="./assets/resume/agent-forge-light.svg?v=4857b25fd6" width="960" alt="Agent Forge — A Git-native coding agent that plans, edits, and validates repository changes. Working-tree context · Sandboxed patch evaluation · pytest and iterative repair. Python · Git · LLM APIs · pytest · CLI. Open repository." />
+</picture>
+</a>
 
-<img src="./assets/focus.svg?v=5df6478" width="800" alt="CTO at A-Zentrix, building AI agents, LLM workflows, and ML applications" />
+<a href="https://github.com/MuruganandamMG/AI-LLM-integration-using-LangChain-prompt-workflows">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/resume/aura-ai-mobile-dark.svg?v=4857b25fd6" />
+  <source media="(max-width: 600px)" srcset="./assets/resume/aura-ai-mobile-light.svg?v=4857b25fd6" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/resume/aura-ai-dark.svg?v=4857b25fd6" />
+  <img src="./assets/resume/aura-ai-light.svg?v=4857b25fd6" width="960" alt="Aura AI — A habit and focus application with context-aware AI coaching. LangChain prompt workflows · Authenticated routines · Analytics and exports. FastAPI · LangChain · Gemini / OpenAI · SQLAlchemy · SQLite. Open repository." />
+</picture>
+</a>
 
-</div>
+<a href="https://github.com/asmohamedarfeen/IIT-Mandi-Hackathon-">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/resume/cardiovision-mobile-dark.svg?v=4857b25fd6" />
+  <source media="(max-width: 600px)" srcset="./assets/resume/cardiovision-mobile-light.svg?v=4857b25fd6" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/resume/cardiovision-dark.svg?v=4857b25fd6" />
+  <img src="./assets/resume/cardiovision-light.svg?v=4857b25fd6" width="960" alt="CardioVision AI — A coronary-risk ML prototype with interactive 3D anatomical visualization. Multi-target risk prediction · Three.js heart views · SHAP and evaluation reports. Python · FastAPI · LightGBM · React · Three.js · SHAP. Open repository." />
+</picture>
+</a>
 
----
+<a href="https://github.com/MuruganandamMG/age-and-gender-detection-using-a-custom-Deep-Learning">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/resume/neural-vision-mobile-dark.svg?v=4857b25fd6" />
+  <source media="(max-width: 600px)" srcset="./assets/resume/neural-vision-mobile-light.svg?v=4857b25fd6" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/resume/neural-vision-dark.svg?v=4857b25fd6" />
+  <img src="./assets/resume/neural-vision-light.svg?v=4857b25fd6" width="960" alt="Neural Age &amp; Gender Engine — A Flask-powered prototype for face localization and age/gender estimation. Image processing · Bounding-box overlays · Confidence displays. Python · Flask · OpenCV · NumPy · JavaScript. Open repository." />
+</picture>
+</a>
 
-## 🧭 About Me
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/resume/toolkit-mobile-dark.svg?v=4857b25fd6" />
+  <source media="(max-width: 600px)" srcset="./assets/resume/toolkit-mobile-light.svg?v=4857b25fd6" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/resume/toolkit-dark.svg?v=4857b25fd6" />
+  <img src="./assets/resume/toolkit-light.svg?v=4857b25fd6" width="960" alt="Technical toolkit: Python, JavaScript, TypeScript, SQL, AI orchestration, machine learning, computer vision, web development, data, and delivery. Full list in the text résumé." />
+</picture>
 
-I'm **Muruganandam M G**, an **AI Developer, Python Developer, and CTO at A-Zentrix**, based in **Erode, Tamil Nadu, India**. I'm pursuing a **B.Tech in Artificial Intelligence & Data Science** at **Nandha Engineering College (Autonomous)**, with graduation expected in **2028**.
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/resume/credentials-mobile-dark.svg?v=4857b25fd6" />
+  <source media="(max-width: 600px)" srcset="./assets/resume/credentials-mobile-light.svg?v=4857b25fd6" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/resume/credentials-dark.svg?v=4857b25fd6" />
+  <img src="./assets/resume/credentials-light.svg?v=4857b25fd6" width="960" alt="B.Tech AI and Data Science, Nandha Engineering College, 2024–2028 expected. IEEE Member. Certifications from LinkedIn Learning, Great Learning, SWAYAM, and IBM Cognitive Class." />
+</picture>
 
-I build **Python, FastAPI, and React applications** across Git-native coding automation, LangChain-powered productivity tools, healthcare ML prototypes, and computer vision. My focus is on implementation: **API design, model evaluation, testing, debugging, and maintainable code**.
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/resume/contact-mobile-dark.svg?v=4857b25fd6" />
+  <source media="(max-width: 600px)" srcset="./assets/resume/contact-mobile-light.svg?v=4857b25fd6" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/resume/contact-dark.svg?v=4857b25fd6" />
+  <img src="./assets/resume/contact-light.svg?v=4857b25fd6" width="960" alt="Let’s build useful systems. AI agents, GenAI applications, and healthcare ML." />
+</picture>
 
-| Area | What I work on |
-| :--- | :--- |
-| 🧭 **Technical Leadership** | CTO at **A-Zentrix**; Team Lead for **TuneEng (2025–2026)**. |
-| 🤖 **Agents & GenAI** | Git-native coding agents, LLM integrations, RAG, vector search, and tool orchestration. |
-| 🫀 **ML & Computer Vision** | Coronary-risk prediction prototypes, explainability, model evaluation, and face analysis. |
-| ⚡ **Application Development** | Python APIs, React/TypeScript interfaces, databases, and automated validation. |
+<p align="center"><a href="https://www.linkedin.com/in/muruga007/">LinkedIn</a> · <a href="mailto:muruga004kvp@gmail.com">Email</a> · <a href="https://github.com/MuruganandamMG?tab=repositories">Repositories</a></p>
 
----
+<details>
+<summary>Read the résumé as text</summary>
 
-## 💼 Experience
+# Muruganandam M G
+
+**AI Developer · Python Developer · GenAI & ML Systems**
+
+Erode, Tamil Nadu, India
+
+Git-native agents, LLM workflows, and ML applications — with a focus on APIs, model evaluation, testing, and maintainable code.
+
+## Experience
 
 ### Chief Technology Officer · A-Zentrix
 
 **Current role**
 
-- Work on technical direction and application architecture, connecting AI components, backend services, and web interfaces.
-- Contribute to the company's React/TypeScript web application and coordinate development through Git and GitHub.
+Technical direction and application architecture across AI components, Python services, and React/TypeScript interfaces.
 
 ### Team Lead · TuneEng
 
 **2025–2026**
 
-- Led the team developing an AI-assisted English communication platform with speaking practice, language feedback, and interview-preparation features.
-- Coordinated development tasks and integration across frontend, backend, and AI-driven learning features.
+Led development of an AI-assisted English communication platform. Coordinated frontend, backend, and AI learning features.
 
-### AI & Full-Stack Project Developer · Student Projects
+### AI & Full-Stack Developer · Student projects
 
 **2023–Present**
 
-- Build AI prototypes and supporting applications with Python, FastAPI, and React, working across model integration, API design, debugging, and evaluation.
+Built Python, FastAPI, and React prototypes across model integration, API design, debugging, and evaluation.
 
----
+## Selected work
 
-## 🚀 Featured Projects
+### [Agent Forge](https://github.com/MuruganandamMG/agent-forge)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Coding automation**
 
-### 🤖 Agent Forge
+A Git-native coding agent that plans, edits, and validates repository changes.
 
-**Git-native coding automation.**
+Working-tree context · Sandboxed patch evaluation · pytest and iterative repair
 
-A terminal-based coding assistant that plans, edits, and validates changes inside a Git repository.
+**Stack:** Python · Git · LLM APIs · pytest · CLI
 
-- Gathers working-tree context and breaks requests into executable tasks.
-- Uses Git-oriented patch handling and sandboxed evaluation.
-- Connects LLM-assisted changes with pytest validation and iterative repair.
+### [Aura AI](https://github.com/MuruganandamMG/AI-LLM-integration-using-LangChain-prompt-workflows)
 
-<p>
-<img src="https://img.shields.io/badge/Python-172334?style=flat-square&logo=python&logoColor=FFD343" alt="Python" />
-<img src="https://img.shields.io/badge/Git-172334?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/pytest-172334?style=flat-square&logo=pytest&logoColor=0A9EDC" alt="pytest" />
-</p>
+**LLM applications**
 
-**[Explore Agent Forge →](https://github.com/MuruganandamMG/agent-forge)**
+A habit and focus application with context-aware AI coaching.
 
-</td>
-<td width="50%" valign="top">
+LangChain prompt workflows · Authenticated routines · Analytics and exports
 
-### 🧠 Aura AI
+**Stack:** FastAPI · LangChain · Gemini / OpenAI · SQLAlchemy · SQLite
 
-**An AI companion for habits and focused work.**
+### [CardioVision AI](https://github.com/asmohamedarfeen/IIT-Mandi-Hackathon-)
 
-A personal growth and productivity application with LangChain workflows and Gemini and OpenAI integrations.
+**IIT Mandi Hackathon**
 
-- FastAPI endpoints and LangChain prompt workflows for conversational mentoring.
-- Authenticated routines, progress check-ins, and focus sessions with async SQLAlchemy and SQLite.
-- Habit analytics, AI guidance, calendar/CSV exports, and automated tests.
+A coronary-risk ML prototype with interactive 3D anatomical visualization.
 
-<p>
-<img src="https://img.shields.io/badge/Python-172334?style=flat-square&logo=python&logoColor=FFD343" alt="Python" />
-<img src="https://img.shields.io/badge/LangChain-172334?style=flat-square&logo=langchain&logoColor=80CBC4" alt="LangChain" />
-<img src="https://img.shields.io/badge/SQLAlchemy-172334?style=flat-square&logo=sqlalchemy&logoColor=E57373" alt="SQLAlchemy" />
-</p>
+Multi-target risk prediction · Three.js heart views · SHAP and evaluation reports
 
-**[Explore Aura AI →](https://github.com/MuruganandamMG/AI-LLM-integration-using-LangChain-prompt-workflows)**
+**Stack:** Python · FastAPI · LightGBM · React · Three.js · SHAP
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### [Neural Age & Gender Engine](https://github.com/MuruganandamMG/age-and-gender-detection-using-a-custom-Deep-Learning)
 
-### 🫀 CardioVision AI
+**Computer vision**
 
-**IIT Mandi Hackathon · Healthcare ML prototype.**
+A Flask-powered prototype for face localization and age/gender estimation.
 
-A coronary-risk decision-support prototype connecting ML predictions with interactive 3D anatomical visualization.
+Image processing · Bounding-box overlays · Confidence displays
 
-- Multi-target ML on the UCI Z-Alizadeh Sani dataset for CAD and vessel-specific stenosis risk.
-- Three.js heart visualization for inspecting coronary regions and predicted risk levels.
-- SHAP explanations, ROC/precision-recall curves, threshold analysis, and evidence reports.
+**Stack:** Python · Flask · OpenCV · NumPy · JavaScript
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-172334?style=flat-square&logo=fastapi&logoColor=00D9B5" alt="FastAPI" />
-<img src="https://img.shields.io/badge/LightGBM-172334?style=flat-square" alt="LightGBM" />
-<img src="https://img.shields.io/badge/Three.js-172334?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-<img src="https://img.shields.io/badge/SHAP-172334?style=flat-square" alt="SHAP" />
-</p>
+## Technical toolkit
 
-**[Explore the hackathon project →](https://github.com/asmohamedarfeen/IIT-Mandi-Hackathon-)**
+- **Languages:** Python · JavaScript · TypeScript · SQL
+- **AI & orchestration:** LLMs · RAG · AI Agents · NLP · LangChain · LangGraph · Prompt Engineering
+- **ML & vision:** Machine Learning · Deep Learning · scikit-learn · CatBoost · XGBoost · LightGBM · OpenCV · SHAP
+- **Web & data:** FastAPI · Flask · React · HTML / CSS · Tailwind · PostgreSQL · MySQL · SQLite · ChromaDB · SQLAlchemy · Three.js
+- **Delivery:** Git · GitHub · Docker · Ollama · VS Code · Cursor · pytest · Kubernetes (basic)
+- **Foundations:** REST APIs · Model Evaluation · Vector Search · Tool Orchestration · Debugging
 
-</td>
-<td width="50%" valign="top">
+## Education & membership
 
-### 👁️ Neural Age & Gender Engine
+**B.Tech · Artificial Intelligence & Data Science**
 
-**Computer vision with a browser interface.**
+Nandha Engineering College (Autonomous)
 
-A Flask-powered image analysis prototype with face localization and age/gender-estimation outputs.
+Perundurai, Erode, Tamil Nadu
 
-- Image uploads, OpenCV processing, and structured results.
-- Face bounding-box overlays and confidence displays.
-- A responsive interface with adjustable inference delay for workflow testing.
+2024–2028 · Expected graduation: 2028
 
-<p>
-<img src="https://img.shields.io/badge/Python-172334?style=flat-square&logo=python&logoColor=FFD343" alt="Python" />
-<img src="https://img.shields.io/badge/Flask-172334?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/OpenCV-172334?style=flat-square&logo=opencv&logoColor=5CDB95" alt="OpenCV" />
-</p>
+IEEE Member
 
-**[Explore the vision project →](https://github.com/MuruganandamMG/age-and-gender-detection-using-a-custom-Deep-Learning)**
-
-</td>
-</tr>
-</table>
-
-<p align="center"><a href="https://github.com/MuruganandamMG?tab=repositories"><b>See all my repositories →</b></a></p>
-
----
-
-## 🛠️ Technologies I Work With
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,ts,js,tailwind,html,css,sqlite,docker,git&theme=dark&perline=6" alt="Python, FastAPI, Flask, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, SQLite, Docker, and Git" />
-</p>
-
-| Layer | Tools & technologies |
-| :--- | :--- |
-| **Programming** | Python · JavaScript · TypeScript · SQL |
-| **AI & GenAI** | Machine Learning · Deep Learning · LLMs · RAG · AI Agents · NLP · Computer Vision · Prompt Engineering |
-| **Frameworks & Libraries** | FastAPI · Flask · LangChain · LangGraph · scikit-learn · CatBoost · XGBoost · LightGBM · OpenCV · SHAP |
-| **Web & Databases** | React · HTML · CSS · Tailwind CSS · PostgreSQL · MySQL · SQLite · ChromaDB · SQLAlchemy · Three.js |
-| **Tools & DevOps** | Git · GitHub · Docker · Ollama · VS Code · Cursor · pytest · Kubernetes (basic) |
-| **Core Concepts** | REST APIs · Backend Development · Model Evaluation · Vector Search · Tool Orchestration · Debugging |
-
----
-
-## 🎓 Education & Professional Membership
-
-**B.Tech · Artificial Intelligence & Data Science**<br />
-**Nandha Engineering College (Autonomous)** · Perundurai, Erode, Tamil Nadu<br />
-2024–2028 · Expected graduation: **2028**
-
-**IEEE · Member**
-
-## 📜 Certifications
+## Certifications
 
 - **LinkedIn Learning** — Advanced Prompt Engineering Techniques
 - **Great Learning** — Introduction to Neural Networks & Deep Learning
 - **SWAYAM (Skill India)** — Cloud Computing
 - **IBM Cognitive Class** — Machine Learning with Python
 
----
+</details>
 
-## 📊 GitHub Activity
+<details>
+<summary>GitHub activity</summary>
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/MuruganandamMG"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuruganandamMG&theme=tokyonight" width="960" alt="MuruganandamMG GitHub contribution activity" /></a>
+</p>
 
-<a href="https://github.com/MuruganandamMG">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuruganandamMG&theme=tokyonight" width="48%" alt="MuruganandamMG public GitHub statistics" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuruganandamMG&theme=tokyonight" width="48%" alt="Languages across MuruganandamMG public repositories" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/MuruganandamMG">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuruganandamMG&theme=tokyonight" width="98%" alt="MuruganandamMG contribution activity over time" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Build. Learn. Make it useful.
-
-I'm interested in **AI agents, GenAI applications, healthcare ML, and practical software systems**.
-
-**[LinkedIn](https://www.linkedin.com/in/muruga007/) · [Email](mailto:muruga004kvp@gmail.com) · [Explore my work](https://github.com/MuruganandamMG?tab=repositories)**
-
-<br />
-
-<img src="./assets/footer.svg" width="100%" alt="Turning ideas into useful software" />
-
-</div>
+</details>
