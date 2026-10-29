@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" fill="none" role="img" aria-labelledby="title description">
   <title id="title">Muruganandam M G</title>
-  <desc id="description">AI Developer and Full Stack Developer. Machine learning, language models, and creative tools.</desc>
+  <desc id="description">CTO at A-Zentrix. AI Developer and Python Developer working on GenAI and ML systems.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="960" y2="280" gradientUnits="userSpaceOnUse">
       <stop stop-color="#08111E"/><stop offset="1" stop-color="#101C30"/>
@@ -30,12 +30,12 @@
     <circle cx="819" cy="163" r="3" fill="#4387FF" fill-opacity=".8"/>
     <rect x="351" y="30" width="258" height="29" rx="14.5" fill="#00D9E8" fill-opacity=".07" stroke="#00D9E8" stroke-opacity=".3"/>
     <circle class="signal" cx="370" cy="44.5" r="3.5" fill="#00D9E8"/>
-    <text x="387" y="49" font-size="11" font-weight="600" letter-spacing="1.7" fill="#76E8EF">IDEAS INTO APPLICATIONS</text>
+    <text x="487" y="49" text-anchor="middle" font-size="11" font-weight="600" letter-spacing="1.7" fill="#76E8EF">CTO @ A-ZENTRIX</text>
     <text x="480" y="121" text-anchor="middle" font-size="47" font-weight="750" letter-spacing="2" fill="#F0F6FC">MURUGANANDAM M G</text>
-    <text x="480" y="158" text-anchor="middle" font-size="19" font-weight="500" letter-spacing=".8" fill="#9FBCD9">AI Developer  ·  Full Stack Developer</text>
+    <text x="480" y="158" text-anchor="middle" font-size="19" font-weight="500" letter-spacing=".8" fill="#9FBCD9">AI Developer  ·  Python Developer  ·  GenAI &amp; ML Systems</text>
     <path d="M382 182H578" stroke="url(#accent)" stroke-opacity=".6"/>
-    <text x="480" y="216" class="mono" text-anchor="middle" font-size="13" letter-spacing=".5" fill="#7EE0E7">Machine Learning  /  LLM Applications  /  Creative Tools</text>
-    <text x="480" y="250" class="mono" text-anchor="middle" font-size="11" letter-spacing="1" fill="#7893B1">INDIA  ·  @MuruganandamMG</text>
+    <text x="480" y="216" class="mono" text-anchor="middle" font-size="13" letter-spacing=".5" fill="#7EE0E7">AI Agents  /  LLM Workflows  /  Machine Learning</text>
+    <text x="480" y="250" class="mono" text-anchor="middle" font-size="11" letter-spacing="1" fill="#7893B1">ERODE, INDIA  ·  @MuruganandamMG</text>
     <path d="M0 278H960" stroke="url(#accent)" stroke-width="4"/>
   </g>
   <rect x=".5" y=".5" width="959" height="279" rx="16" stroke="#29405C"/>

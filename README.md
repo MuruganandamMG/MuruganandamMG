@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Muruganandam M G — AI Developer and Full Stack Developer" />
+<img src="./assets/header.svg" width="100%" alt="Muruganandam M G — CTO at A-Zentrix, AI Developer and Python Developer" />
 
 <br />
 
+<a href="https://www.linkedin.com/in/muruga007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect with Muruganandam on LinkedIn" /></a>
+<a href="mailto:muruga004kvp@gmail.com"><img src="https://img.shields.io/badge/Email-151D2E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muruganandam" /></a>
 <a href="https://github.com/MuruganandamMG?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Work-00D9E8?style=for-the-badge&logo=github&logoColor=07111F" alt="Explore my repositories" /></a>
-<a href="https://github.com/MuruganandamMG?tab=followers"><img src="https://img.shields.io/badge/Follow_on_GitHub-151D2E?style=for-the-badge&logo=github&logoColor=white" alt="Follow MuruganandamMG on GitHub" /></a>
 
 <br /><br />
 
-<img src="./assets/focus.svg" width="800" alt="Building AI applications, creative tools, and useful web experiences" />
+<img src="./assets/focus.svg" width="800" alt="CTO at A-Zentrix, building AI agents, LLM workflows, and ML applications" />
 
 </div>
 
@@ -17,16 +18,40 @@
 
 ## 🧭 About Me
 
-I'm **Muruganandam M G**, an **AI Developer and Full Stack Developer** based in **India**. I build applications that connect machine learning, language models, and practical web experiences — from AI image generation and computer vision to conversational tools and productivity apps.
+I'm **Muruganandam M G**, an **AI Developer, Python Developer, and CTO at A-Zentrix**, based in **Erode, Tamil Nadu, India**. I'm pursuing a **B.Tech in Artificial Intelligence & Data Science** at **Nandha Engineering College (Autonomous)**, with graduation expected in **2028**.
 
-My work brings together **Python backends**, **React and TypeScript interfaces**, and **LLM integrations**. I'm interested in healthcare AI, creative tools, and making intelligent software useful beyond the demo.
+I build **Python, FastAPI, and React applications** across Git-native coding automation, LangChain-powered productivity tools, healthcare ML prototypes, and computer vision. My focus is on implementation: **API design, model evaluation, testing, debugging, and maintainable code**.
 
 | Area | What I work on |
 | :--- | :--- |
-| 🧠 **AI & LLM Applications** | Gemini and OpenAI integrations, LangChain workflows, and conversational experiences. |
-| 🎨 **Creative AI** | Prompt-based image generation, image galleries, and tools for exploring ideas. |
-| 👁️ **Computer Vision** | Image analysis, face detection interfaces, and Python-based inference workflows. |
-| ⚡ **Full Stack Development** | FastAPI and Flask backends, React interfaces, and database-backed applications. |
+| 🧭 **Technical Leadership** | CTO at **A-Zentrix**; Team Lead for **TuneEng (2025–2026)**. |
+| 🤖 **Agents & GenAI** | Git-native coding agents, LLM integrations, RAG, vector search, and tool orchestration. |
+| 🫀 **ML & Computer Vision** | Coronary-risk prediction prototypes, explainability, model evaluation, and face analysis. |
+| ⚡ **Application Development** | Python APIs, React/TypeScript interfaces, databases, and automated validation. |
+
+---
+
+## 💼 Experience
+
+### Chief Technology Officer · A-Zentrix
+
+**Current role**
+
+- Work on technical direction and application architecture, connecting AI components, backend services, and web interfaces.
+- Contribute to the company's React/TypeScript web application and coordinate development through Git and GitHub.
+
+### Team Lead · TuneEng
+
+**2025–2026**
+
+- Led the team developing an AI-assisted English communication platform with speaking practice, language feedback, and interview-preparation features.
+- Coordinated development tasks and integration across frontend, backend, and AI-driven learning features.
+
+### AI & Full-Stack Project Developer · Student Projects
+
+**2023–Present**
+
+- Build AI prototypes and supporting applications with Python, FastAPI, and React, working across model integration, API design, debugging, and evaluation.
 
 ---
 
@@ -36,23 +61,23 @@ My work brings together **Python backends**, **React and TypeScript interfaces**
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Gemini Canvas
+### 🤖 Agent Forge
 
-**From a prompt to a creative workspace.**
+**Git-native coding automation.**
 
-A text-to-image application pairing a React and TypeScript interface with a Gemini-powered FastAPI backend.
+A terminal-based coding assistant that plans, edits, and validates changes inside a Git repository.
 
-- Prompt-based image generation and regeneration.
-- Gallery and history with saved images and metadata.
-- Download images, reuse prompts, and manage creations.
+- Gathers working-tree context and breaks requests into executable tasks.
+- Uses Git-oriented patch handling and sandboxed evaluation.
+- Connects LLM-assisted changes with pytest validation and iterative repair.
 
 <p>
-<img src="https://img.shields.io/badge/React-172334?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-172334?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/FastAPI-172334?style=flat-square&logo=fastapi&logoColor=00D9B5" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Python-172334?style=flat-square&logo=python&logoColor=FFD343" alt="Python" />
+<img src="https://img.shields.io/badge/Git-172334?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/pytest-172334?style=flat-square&logo=pytest&logoColor=0A9EDC" alt="pytest" />
 </p>
 
-**[Explore Gemini Canvas →](https://github.com/MuruganandamMG/Image-Gen-python-TS-)**
+**[Explore Agent Forge →](https://github.com/MuruganandamMG/agent-forge)**
 
 </td>
 <td width="50%" valign="top">
@@ -63,9 +88,9 @@ A text-to-image application pairing a React and TypeScript interface with a Gemi
 
 A personal growth and productivity application with LangChain workflows and Gemini and OpenAI integrations.
 
-- Habit routines, progress heatmaps, and daily quests.
-- A focus timer with synthesized ambient audio.
-- Context-aware coaching and AI progress reviews.
+- FastAPI endpoints and LangChain prompt workflows for conversational mentoring.
+- Authenticated routines, progress check-ins, and focus sessions with async SQLAlchemy and SQLite.
+- Habit analytics, AI guidance, calendar/CSV exports, and automated tests.
 
 <p>
 <img src="https://img.shields.io/badge/Python-172334?style=flat-square&logo=python&logoColor=FFD343" alt="Python" />
@@ -80,15 +105,37 @@ A personal growth and productivity application with LangChain workflows and Gemi
 <tr>
 <td width="50%" valign="top">
 
+### 🫀 CardioVision AI
+
+**IIT Mandi Hackathon · Healthcare ML prototype.**
+
+A coronary-risk decision-support prototype connecting ML predictions with interactive 3D anatomical visualization.
+
+- Multi-target ML on the UCI Z-Alizadeh Sani dataset for CAD and vessel-specific stenosis risk.
+- Three.js heart visualization for inspecting coronary regions and predicted risk levels.
+- SHAP explanations, ROC/precision-recall curves, threshold analysis, and evidence reports.
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-172334?style=flat-square&logo=fastapi&logoColor=00D9B5" alt="FastAPI" />
+<img src="https://img.shields.io/badge/LightGBM-172334?style=flat-square" alt="LightGBM" />
+<img src="https://img.shields.io/badge/Three.js-172334?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+<img src="https://img.shields.io/badge/SHAP-172334?style=flat-square" alt="SHAP" />
+</p>
+
+**[Explore the hackathon project →](https://github.com/asmohamedarfeen/IIT-Mandi-Hackathon-)**
+
+</td>
+<td width="50%" valign="top">
+
 ### 👁️ Neural Age & Gender Engine
 
-**Exploring image analysis through a web interface.**
+**Computer vision with a browser interface.**
 
-A Python and Flask application for face analysis, with image uploads and visual detection results.
+A Flask-powered image analysis prototype with face localization and age/gender-estimation outputs.
 
-- Drag-and-drop image input.
-- Bounding box overlays and structured JSON results.
-- OpenCV and NumPy image processing.
+- Image uploads, OpenCV processing, and structured results.
+- Face bounding-box overlays and confidence displays.
+- A responsive interface with adjustable inference delay for workflow testing.
 
 <p>
 <img src="https://img.shields.io/badge/Python-172334?style=flat-square&logo=python&logoColor=FFD343" alt="Python" />
@@ -97,27 +144,6 @@ A Python and Flask application for face analysis, with image uploads and visual 
 </p>
 
 **[Explore the vision project →](https://github.com/MuruganandamMG/age-and-gender-detection-using-a-custom-Deep-Learning)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ Speech & AI Interview Tooling
-
-**Connecting voice experiences with AI backends.**
-
-A project exploring speech-to-text, text-to-speech, and AI interview workflows with a Python backend.
-
-- FastAPI and WebSocket infrastructure.
-- Gemini integration for AI interactions.
-- A separate web frontend and backend service.
-
-<p>
-<img src="https://img.shields.io/badge/FastAPI-172334?style=flat-square&logo=fastapi&logoColor=00D9B5" alt="FastAPI" />
-<img src="https://img.shields.io/badge/WebSockets-172334?style=flat-square" alt="WebSockets" />
-<img src="https://img.shields.io/badge/Gemini-172334?style=flat-square&logo=googlegemini&logoColor=8AB4F8" alt="Gemini" />
-</p>
-
-**[Explore the speech project →](https://github.com/MuruganandamMG/SST-TTS-in-Python-FastAPI-WebStock-)**
 
 </td>
 </tr>
@@ -135,10 +161,29 @@ A project exploring speech-to-text, text-to-speech, and AI interview workflows w
 
 | Layer | Tools & technologies |
 | :--- | :--- |
-| **AI & Image Processing** | LangChain · Gemini API · OpenAI API · OpenCV · NumPy |
-| **Backend & Data** | Python · FastAPI · Flask · WebSockets · SQLAlchemy · SQLite |
-| **Frontend** | React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS · Vite |
-| **Development & Delivery** | Git · GitHub · Docker · GitHub Actions · Pytest |
+| **Programming** | Python · JavaScript · TypeScript · SQL |
+| **AI & GenAI** | Machine Learning · Deep Learning · LLMs · RAG · AI Agents · NLP · Computer Vision · Prompt Engineering |
+| **Frameworks & Libraries** | FastAPI · Flask · LangChain · LangGraph · scikit-learn · CatBoost · XGBoost · LightGBM · OpenCV · SHAP |
+| **Web & Databases** | React · HTML · CSS · Tailwind CSS · PostgreSQL · MySQL · SQLite · ChromaDB · SQLAlchemy · Three.js |
+| **Tools & DevOps** | Git · GitHub · Docker · Ollama · VS Code · Cursor · pytest · Kubernetes (basic) |
+| **Core Concepts** | REST APIs · Backend Development · Model Evaluation · Vector Search · Tool Orchestration · Debugging |
+
+---
+
+## 🎓 Education & Professional Membership
+
+**B.Tech · Artificial Intelligence & Data Science**<br />
+**Nandha Engineering College (Autonomous)** · Perundurai, Erode, Tamil Nadu<br />
+2024–2028 · Expected graduation: **2028**
+
+**IEEE · Member**
+
+## 📜 Certifications
+
+- **LinkedIn Learning** — Advanced Prompt Engineering Techniques
+- **Great Learning** — Introduction to Neural Networks & Deep Learning
+- **SWAYAM (Skill India)** — Cloud Computing
+- **IBM Cognitive Class** — Machine Learning with Python
 
 ---
 
@@ -165,9 +210,9 @@ A project exploring speech-to-text, text-to-speech, and AI interview workflows w
 
 ### Build. Learn. Make it useful.
 
-I'm interested in **AI applications, creative tools, healthcare AI, and thoughtful web experiences**.
+I'm interested in **AI agents, GenAI applications, healthcare ML, and practical software systems**.
 
-**[Explore my work](https://github.com/MuruganandamMG?tab=repositories) · [Find me on GitHub](https://github.com/MuruganandamMG)**
+**[LinkedIn](https://www.linkedin.com/in/muruga007/) · [Email](mailto:muruga004kvp@gmail.com) · [Explore my work](https://github.com/MuruganandamMG?tab=repositories)**
 
 <br />
 
