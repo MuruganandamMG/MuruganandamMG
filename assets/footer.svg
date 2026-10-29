@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="100" viewBox="0 0 960 100" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Turning ideas into useful software</title>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="960" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D9E8"/><stop offset=".6" stop-color="#4387FF"/><stop offset="1" stop-color="#8B78EF"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 48H276L296 68H664L684 48H960V100H0Z" fill="#299AC0" fill-opacity=".055"/>
+  <path d="M0 48H276L296 68H664L684 48H960" stroke="url(#line)" stroke-opacity=".55"/>
+  <circle cx="276" cy="48" r="3" fill="#00D9E8"/>
+  <circle cx="684" cy="48" r="3" fill="#4387FF"/>
+  <text x="480" y="39" text-anchor="middle" font-family="Consolas, monospace" font-size="12" letter-spacing="1.6" fill="#7E9BB8">TURNING IDEAS INTO USEFUL SOFTWARE</text>
+</svg>
